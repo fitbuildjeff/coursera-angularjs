@@ -26,15 +26,13 @@
       var service = this;
 
       var toBuy = [
-        { name: "jars of honey", quantity: 3 }, 
-        { name: "dark chocolate bars", quantity: 4 }, 
-        { name: "bags of marshmellows", quantity: 2 }, 
-        { name: "graham cracker packages", quantity: 3 },  
-        { name: "licorice root tea", quantity: 2 }, 
-        { name: "figs", quantity: 6 }, 
-        { name: "bag of choc covered almonds", quantity: 1 }, 
-        { name: "containers of blueberries", quantity: 3 },
-        { name: "cashew milk ice cream", quantity: 1}
+        { name: "bag of honeycrisp", quantity: 1 }, 
+        { name: "red grapes", quantity: 2 }, 
+        { name: "bok choy", quantity: 1 }, 
+        { name: "eggplant", quantity: 1 },  
+        { name: "cacao or cocoa powder", quantity: 1 }, 
+        { name: "sausage packages", quantity: 2 }, 
+        { name: "frozen blueberries", quantity: 1 }
       ];
 
       var bought = [];
